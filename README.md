@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>Hi there 👋</h1
-</div>
+### Hi there 👋
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rybaaa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
